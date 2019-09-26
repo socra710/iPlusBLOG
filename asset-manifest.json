@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/iPlusblog/static/js/main.23096fd8.chunk.js",
-    "main.js.map": "/iPlusblog/static/js/main.23096fd8.chunk.js.map",
-    "runtime-main.js": "/iPlusblog/static/js/runtime-main.3085b6c1.js",
-    "runtime-main.js.map": "/iPlusblog/static/js/runtime-main.3085b6c1.js.map",
-    "static/js/2.f502b3ea.chunk.js": "/iPlusblog/static/js/2.f502b3ea.chunk.js",
-    "static/js/2.f502b3ea.chunk.js.map": "/iPlusblog/static/js/2.f502b3ea.chunk.js.map",
-    "index.html": "/iPlusblog/index.html",
-    "precache-manifest.1fc3184aad35feac7a6041a97f059f35.js": "/iPlusblog/precache-manifest.1fc3184aad35feac7a6041a97f059f35.js",
-    "service-worker.js": "/iPlusblog/service-worker.js"
+    "main.js": "/iPlusBlog/static/js/main.644dffd8.chunk.js",
+    "main.js.map": "/iPlusBlog/static/js/main.644dffd8.chunk.js.map",
+    "runtime-main.js": "/iPlusBlog/static/js/runtime-main.46ca0c1b.js",
+    "runtime-main.js.map": "/iPlusBlog/static/js/runtime-main.46ca0c1b.js.map",
+    "static/js/2.f502b3ea.chunk.js": "/iPlusBlog/static/js/2.f502b3ea.chunk.js",
+    "static/js/2.f502b3ea.chunk.js.map": "/iPlusBlog/static/js/2.f502b3ea.chunk.js.map",
+    "index.html": "/iPlusBlog/index.html",
+    "precache-manifest.949100d486841fc6985051a0436e1197.js": "/iPlusBlog/precache-manifest.949100d486841fc6985051a0436e1197.js",
+    "service-worker.js": "/iPlusBlog/service-worker.js"
   }
 }
